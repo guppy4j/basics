@@ -1,19 +1,19 @@
 Core Needs
 ----------
 
--Air
--Water
--Food
--Bed
+- Air
+- Water
+- Food
+- Bed
 
--Shelter
--Hygiene
--Clothing
+- Shelter
+- Hygiene
+- Clothing
 
--Tools
--Energy / Heat
--Safe Storage
--Backpack
+- Tools
+- Energy / Heat
+- Safe Storage
+- Backpack
 
--Transportation
--Writing system
+- Transportation
+- Writing system
