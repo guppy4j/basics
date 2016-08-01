@@ -5,7 +5,7 @@ Core Needs
 - Water
 - Food
 - Bed
-- 
+
 - Shelter
 - Hygiene
 - Clothing
