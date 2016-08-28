@@ -1,72 +1,70 @@
 Camping - things to take
 
 Shelter & sleep
-[x] tarp / tent
-[x] insulating mats
-[x] sleeping bags
-[x] bungee cord(s)
-[x] blankets
-[x] pillows ?
-[y] pull-ups ?
+[ ] tarp / tent
+[ ] insulating mats
+[ ] sleeping bags
+[ ] bungee cord(s)
+[ ] blankets
+[ ] pillows ?
+[ ] pull-ups ?
+[ ] sun shelter (e.g. for beach)
+[ ] umbrella(s) ?
 
 Dine & lounge
-[x] stove, with fuel
-[x] cutlery
-[x] plates & bowls
-[x] pots & pans
-[x] big candle
-[x] tea pot
-[x] cups & mugs
-[x] water bottles
-[x] dish pan & soap & scrubber
-[x] table cloth ?
-[x] camping chairs ?
+[ ] stove, with fuel
+[ ] cutlery
+[ ] plates & bowls
+[ ] pots & pans
+[ ] big candle
+[ ] tea pot
+[ ] cups & mugs
+[ ] water bottles
+[ ] dish pan & soap & scrubber
+[ ] table cloth ?
+[ ] camping chairs ?
 
 Clothing
-[x] cloth line & pegs
-[h][e][m][p] short-sleeve shirt(s)
-[h][e][m][p] long-sleeve shirt(s)
-[h][e][m][p] shorts
-[h][e][m][p] pants
-[h][e][m][p] swim trunks
-[h][e][m][p] socks, underpants
-[h][e][m][p] sweater (fleece|hemp|flax)
-[h][e][m][p] light rain jacket
-[h][e][m][p] sandals, sneakers, crocs
-[h][e][m][p] sun hat
+[ ] cloth line & pegs
+[ ][ ][ ][ ] short-sleeve shirt(s)
+[ ][ ][ ][ ] long-sleeve shirt(s)
+[ ][ ][ ][ ] shorts
+[ ][ ][ ][ ] pants
+[ ][ ][ ][ ] swim trunks
+[ ][ ][ ][ ] socks, underpants
+[ ][ ][ ][ ] sweater (fleece|hemp|flax)
+[ ][ ][ ][ ] light rain jacket
+[ ][ ][ ][ ] sandals, sneakers, crocs
+[ ][ ][ ][ ] sun hat
 
 Body care
-[x] tooth brushes & paste
-[h][e][m][p] soap
-[h][e][m][p] towel, wash cloth
-[x] sunscreen
-[x] nail clipper
-[x] deodorant ?
+[ ] tooth brushes & paste
+[ ][ ][ ][ ] soap
+[ ][ ][ ][ ] towel, wash cloth
+[ ] sunscreen
+[ ] nail clipper
+[ ] deodorant ?
 
 Medical
-[x] pain medication
-[x] band-aids
-[x] anti-itch, anti-histamin
+[ ] pain medication
+[ ] band-aids
+[ ] anti-itch, anti-histamin
 
 Fun / Games
 [] boogie board ?
-[x] boat & paddles ?
-[x] inflatable floating support
-[x] outdoor toybox
-[x] card game
-[x] a book
+[ ] boat & paddles ?
+[ ] inflatable floating support
+[ ] outdoor toybox
+[ ] card game
+[ ] a book
 
 Transportation
-[x] bicycles & tools & helmets
-[x] bike lock
+[ ] bicycles & tools & helmets
+[ ] bike lock
 
 Electric
-[x] flashlights
-[x] camera & storage cards
-[x] mp3 player & head phones
-[x] batteries
-[x] audio cds or usb (car) 
-
-
-
-
+[ ] flashlights
+[ ] camera & storage cards
+[ ] mp3 player & head phones
+[ ] batteries
+[ ] audio cds or usb (car) 
