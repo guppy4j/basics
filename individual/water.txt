@@ -4,6 +4,7 @@ If water is not clean
 - Filter (clean sand, coffee filter, reusable filter)
 - Sanitize (PET bottles, tinfoil, sun)
 -> SODIS = Solar Disinfection : http://www.sodis.ch/
-- Desalienate if necessary
+- Desalienate if necessary:
+  https://de.wikipedia.org/wiki/Solare_Meerwasserentsalzung#Einfache_solare_Verdunstungsanlagen
 
 - Fill containers with clean water

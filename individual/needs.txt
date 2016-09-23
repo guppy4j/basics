@@ -2,18 +2,22 @@ Core Needs
 ----------
 
 - Air
-- Water
+- Water (drink / wash)
 - Food
+
+- Heating? (in winter)
+- Lighting (at night, under ground)
+
+- Clothing
+- Shelter
 - Bed
 
-- Shelter
-- Hygiene
-- Clothing
+- Hygiene? (soap)
 
 - Tools
-- Energy / Heat
+- Energy / Heat (for smelting, cooking, etc)
 - Safe Storage
 - Backpack
 
-- Transportation
+- Transportation? (shoes?)
 - Writing system
