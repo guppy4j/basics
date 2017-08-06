@@ -1,4 +1,12 @@
+body {
+  background-color: #ffeedd;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 10pt;
+  padding: 0.5em;
+  overflow: hidden;
+}
+
 nav {
-/*    text-align: center;  */
-border: 1px solid silver;
+text-align: center;
+
 }
