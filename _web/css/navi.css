@@ -6,7 +6,7 @@ body {
 nav {
   padding: 0.5em;
   text-align: center;
-  background-color: rgba(220,200,180,0.6);
+  background-color: rgba(180,180,180,0.5);
   border: 1px solid slategray;
   border-radius: 0.5em;
   box-shadow: 0 0 3px 3px rgba(6,6,6,0.4);
