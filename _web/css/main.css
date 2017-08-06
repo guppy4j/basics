@@ -9,7 +9,7 @@ body {
 
 div#navi {
   position: fixed;
-  float:right;
+  right: 0;
   clear: both;
 }
 
