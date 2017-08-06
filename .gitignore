@@ -8,3 +8,7 @@ hs_err_pid*
 # intellij
 .idea/
 *.iml
+
+# jekyll
+*.yml
+*.md
