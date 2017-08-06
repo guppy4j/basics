@@ -6,10 +6,9 @@ body {
 nav {
   padding: 0.5em;
   text-align: center;
-  background-color: #ffeedd;
+  background-colour: rgba(255,200,155,0.5);
   border: 1px solid slategray;
   border-radius: 0.5em;
   box-shadow: 0 0 3px 3px rgba(6,6,6,0.4);
-  opacity: 0.8;
   overflow: hidden;
 }
