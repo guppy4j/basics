@@ -1,34 +1,40 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 10pt;
-  background-image:url('/basics/_web/img/tile.jpg');
+  background-image:url('/basics/_web/img/background.jpg');
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-div#navi {
+#navi, #content {
+  padding: 1em;
+  margin: 1em;
+  border: 1px solid silver;
+  border-radius: 0.5em;
+  background-color: rgba(255,255,255,0.7);
+  box-shadow: 0 0 3px 3px rgba(6,6,6,0.4);
+}
+
+#navi {
   position: fixed;
+  top: 0;
   right: 0;
+  max-width: 18em;
+  height: 22em;
   clear: both;
 }
 
-div#navi iframe {
-  width: 100%;
-  height: 100%;
-  border: none;
-  overflow: hidden;
+#content {
+  max-width: 45em;
 }
 
-div#content {
-  margin-right: 10em;
-  border: 1px solid slategray;
-  padding: 1em;
-  padding-left: 1.5em;
-  padding-right: 1.5em;
-  max-width: 45em;
-  overflow: hidden;
-  background:rgba(255,255,255,0.8);
-  box-shadow: 0 0 3px 3px rgba(6,6,6,0.4);
-  opacity: 0.8;
+h1 {
+  font-size: 1.6em;
+}
+h2 {
+  font-size: 1.4em;
+}
+h3 {
+  font-size: 1.2em;
 }

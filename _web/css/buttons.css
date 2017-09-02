@@ -8,9 +8,9 @@
     font-family: sans-serif;
     font-size: 10pt;
     font-weight: bold;
-    margin: 2px;
+    margin: 0.5em 0.3em ;
+    padding: 0.3em 0.5em;
     overflow: visible;
-    padding: 0.2em 0.5em;
     text-decoration: none !important;
     vertical-align: middle;
     white-space: nowrap;
@@ -23,7 +23,7 @@
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25) inset;
 }
 
-.button.grey {
+.grey {
     color: #606060;
     text-shadow: 0px -1px 0px rgba(170, 170, 170, 0.6);
     background-color: #d0d0d0;
@@ -31,7 +31,7 @@
     background-repeat: repeat-x;
     border-color: #c0c0c0;
 }
-.button.gold {
+.gold {
     color: #604040;
     text-shadow: 0px -1px 0px rgba(120, 150, 150, 0.5);
     background-color: #e0c040;
@@ -39,11 +39,20 @@
     background-repeat: repeat-x;
     border-color: #d0b000;
 }
-.button.green {
+.green {
     color: #202020;
     text-shadow: 0px -1px 0px rgba(120, 120, 120, 0.4);
     background-color: #60c040;
     background-image: linear-gradient(#70e060, #50a020);
     background-repeat: repeat-x;
     border-color: #50a020;
+}
+
+.blue {
+    color: #202020;
+    text-shadow: 0px -1px 0px rgba(120, 120, 120, 0.4);
+    background-color: #8080d0;
+    background-image: linear-gradient(#a0a0f0, #6060b0);
+    background-repeat: repeat-x;
+    border-color: #6060b0;
 }
