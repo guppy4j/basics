@@ -10,10 +10,13 @@ Shelter & sleep
 [ ] pull-ups ?
 [ ] sun shelter (e.g. for beach)
 [ ] umbrella(s) ?
+[ ] light hammock
 
 Dine & lounge
 [ ] stove, with fuel
-[ ] cutlery
+[ ] lighter & matches
+[ ] spoons & forks & knifes
+[ ] sharp knife
 [ ] plates & bowls
 [ ] pots & pans
 [ ] big candle
@@ -49,6 +52,7 @@ Medical
 [ ] pain medication
 [ ] band-aids
 [ ] anti-itch, anti-histamin
+[ ] tweezers, for tick removal etc
 
 Fun / Games
 [] boogie board ?
@@ -68,3 +72,11 @@ Electric
 [ ] mp3 player & head phones
 [ ] batteries
 [ ] audio cds or usb (car) 
+
+Food
+[ ] Sliced dry bread
+[ ] Cheese blocks
+[ ] Herbal salt & pepper
+[ ] Olive oil
+[ ] Apples
+[ ] ...
