@@ -1,77 +1,78 @@
 Camping - things to take
 
 Shelter & sleep
-[ ] tarp / tent
-[ ] insulating mats
-[ ] sleeping bags
-[ ] bungee cord(s)
-[ ] blankets
-[ ] pillows ?
-[ ] pull-ups ?
-[ ] sun shelter (e.g. for beach)
-[ ] umbrella(s) ?
-[ ] light hammock
+[x] tarp / tent
+[x] insulating mats
+[x] sleeping bags
+[x] bungee cord(s)
+[x] blankets
+[x] pillows ?
+[x] pull-ups ?
+[-] sun shelter (e.g. for beach)
+[x] umbrella(s) ?
+[x] light hammock
 
 Dine & lounge
-[ ] stove, with fuel
-[ ] lighter & matches
-[ ] spoons & forks & knifes
-[ ] sharp knife
-[ ] plates & bowls
-[ ] pots & pans
-[ ] big candle
-[ ] tea pot
-[ ] cups & mugs
-[ ] water bottles
-[ ] dish pan & soap & scrubber
-[ ] table cloth ?
-[ ] camping chairs ?
+[x] stove, with fuel
+[x] lighter & matches
+[x] spoons & forks & knifes
+[x] sharp knife
+[x] plates & bowls
+[x] pots & pans
+[x] big candle
+[x] tea pot
+[x] cups & mugs
+[x] water bottles
+[x] dish pan & soap & scrubber
+[x] table cloth ?
+[X] camping chairs ?
 
 Clothing
-[ ] cloth line & pegs
-[ ][ ][ ][ ] short-sleeve shirt(s)
-[ ][ ][ ][ ] long-sleeve shirt(s)
-[ ][ ][ ][ ] shorts
-[ ][ ][ ][ ] pants
-[ ][ ][ ][ ] swim trunks
-[ ][ ][ ][ ] socks, underpants
-[ ][ ][ ][ ] sweater (fleece|hemp|flax)
-[ ][ ][ ][ ] light rain jacket
-[ ][ ][ ][ ] sandals, sneakers, crocs
-[ ][ ][ ][ ] sun hat
+[x] cloth line & pegs
+[X][X][X][X] short-sleeve shirt(s)
+[x][X][X][X] long-sleeve shirt(s)
+[X][X][X][X] shorts
+[x][X][X][X] pants
+[X][X][X][X] swim trunks
+[X][X][X][X] socks, underpants
+[X][X][X][X] sweater (fleece|hemp|flax)
+[X][X][X][x] light rain jacket
+[X][X][X][x] sandals, sneakers, crocs
+[X][X][X][X] sun hat
+ E  M  H  O
 
 Body care
-[ ] tooth brushes & paste
-[ ][ ][ ][ ] soap
-[ ][ ][ ][ ] towel, wash cloth
-[ ] sunscreen
-[ ] nail clipper
-[ ] deodorant ?
+[x] tooth brushes & paste
+[x][x][x][x] soap
+[x][x][x][x] towel, wash cloth
+[x] sunscreen
+[x] nail clipper
+[x] deodorant ?
 
 Medical
-[ ] pain medication
-[ ] band-aids
-[ ] anti-itch, anti-histamin
-[ ] tweezers, for tick removal etc
+[x] pain medication
+[x] band-aids
+[-] anti-itch, anti-histamin
+[x] tweezers, for tick removal etc
 
 Fun / Games
-[] boogie board ?
-[ ] boat & paddles ?
-[ ] inflatable floating support
-[ ] outdoor toybox
-[ ] card game
-[ ] a book
+[x] boogie board ?
+[x] boat & paddle ?
+[x] inflatable floating support
+[x] outdoor toybox
+[x] card game
+[x] a book
 
 Transportation
-[ ] bicycles & tools & helmets
-[ ] bike lock
+[x] bicycles & tools & helmets
+[x] bike lock
 
 Electric
-[ ] flashlights
-[ ] camera & storage cards
-[ ] mp3 player & head phones
-[ ] batteries
-[ ] audio cds or usb (car) 
+[x] flashlights
+[x] camera & storage cards
+[x] mp3 player & head phones
+[x] batteries
+[x] audio cds or usb (car) 
 
 Food
 [ ] Sliced dry bread
